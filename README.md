@@ -22,8 +22,7 @@
 
 Estary is a property management platform built from scratch for Filipino landlords. It handles rent reminders, GCash & Maya collection, tenant records, and BIR-ready reports — all in one place.
 
-Hindi ito foreign app na basta-basta na-translate. Built specifically for the **Philippine rental market** — para sa Pinoy landlords, ng Pinoy landlords.
-
+Hindi ito foreign app na basta-basta na-translate. Built specifically for the **Philippine rental market** — para sa Pinoy landlords.
 ---
 
 ## Features
