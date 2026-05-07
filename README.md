@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/282558184?s=400&u=b5b4b686ebe39bfd12ae06277a6cec2329e4d1e3&v=4" alt="Estary" width="120" />
+<img src="https://avatars.githubusercontent.com/u/282558184?s=400&u=66298c7c4079d236179af0202930d531da4de187&v=4" alt="Estary" width="120" />
 
 # Estary
 
